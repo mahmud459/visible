@@ -9,6 +9,19 @@ function SiteServisic() {
      
   return (
     <section id='Servicis'>
+      {/* section heading  */}
+      <div
+        className="container text-center section-title py-4 mb-5"
+        data-aos="fade-up"
+      >
+        <span className="description-title">Services</span>
+        <h2>Services</h2>
+        <p>
+          Necessitatibus eius consequatur ex aliquid fuga eum quidem sint
+          consectetur velit
+        </p>
+      </div>
+      {/* section heading end  */}
       <div className="container">
         <div className="row">
           {/* left Column - Content */}

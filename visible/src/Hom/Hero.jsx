@@ -53,7 +53,7 @@ function HeroSection() {
 
             <div className="hero-buttons" style={{ display: "flex", gap: "15px" }}>
               <a
-                href="#services"
+                href="#Servicis"
                 className="btn btn rounded-pill firstBtn "
                 style={{
                   backgroundColor: "#10a3d7",

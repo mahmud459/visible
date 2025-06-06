@@ -5,8 +5,8 @@ const ContactSection = () => {
     <section id="contact">
       {/* section heading  */}
       <div className="container text-center section-title " data-aos="fade-up">
-        <span className="description-title">portfolio</span>
-        <h2>portfolio</h2>
+        <span className="description-title">contact</span>
+        <h2>contact</h2>
         <p>
           Necessitatibus eius consequatur ex aliquid fuga eum quidem sint
           consectetur velit
@@ -15,7 +15,8 @@ const ContactSection = () => {
       {/* section heading end  */}
 
       <div className="container mt-5 pt-5">
-        <div className="row">
+        <div className="row g-3
+        ">
           {/* Contact Info Panel */}
           <div className="col-md-5">
             <div
